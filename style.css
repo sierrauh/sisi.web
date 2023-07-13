@@ -92,6 +92,7 @@ textarea {
   letter-spacing: 1px;
   letter-spacing: 3px;
   text-align: center;
+  color: #AACB73;
   margin-bottom: 3.5rem;
   position: relative; }
   .heading-sec__main--lt {
@@ -189,7 +190,7 @@ textarea {
 
 .home-hero {
   color: #AACB73 ;
-  background:linear-gradient(to right, rgba(225,179,179,0.51), rgba(225, 179, 179,0.51));
+  background: #FFD4D4;
   background-position: center; 
   height: 100vh;
   min-height: 80rem;
@@ -263,10 +264,13 @@ textarea {
     .about__content-title {
       font-weight: 700;
       font-size: 2.8rem;
-      margin-bottom: 3rem; }
+      margin-bottom: 3rem;
+      color: #AACB73;
+       }
       @media only screen and (max-width: 37.5em) {
         .about__content-title {
           font-size: 2.4rem;
+
          } }
     .about__content-details-para {
       font-size: 1.8rem;
@@ -313,7 +317,8 @@ textarea {
     .projects__row-content-title {
       font-weight: 700;
       font-size: 2.8rem;
-      margin-bottom: 2rem; }
+      margin-bottom: 2rem;
+      color: #AACB73; }
       @media only screen and (max-width: 37.5em) {
         .projects__row-content-title {
           font-size: 2.4rem; } }
@@ -408,7 +413,7 @@ textarea {
 
 .project-cs-hero {
   color: black;
-  background:linear-gradient(to right, rgba(255, 212, 212, 0.51), rgba(255, 212, 212, 0.51));
+  background:#FFD4D4;
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -502,7 +507,7 @@ textarea {
   width: 100%;
   z-index: 1000;
   background: #eee;
-  background: #fff;
+  background: #FFD4D4;
   box-shadow: 0 10px 100px rgba(0, 0, 0, 0.1); }
   .header__content {
     display: flex;
@@ -552,7 +557,7 @@ textarea {
     padding: 2.2rem 3rem;
     display: inline-block;
     font-size: 1.6rem;
-    color: #333;
+    color: #AACB73;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
@@ -597,7 +602,7 @@ textarea {
     text-decoration: none;
     padding: 2.5rem 3rem;
     font-size: 1.6rem;
-    color: black;
+    color: #AACB73;
     text-align: right;
     border-bottom: 1px solid #eee;
     font-weight: 700;
